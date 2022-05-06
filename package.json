@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MoonLGH/testHtmlWithFriends/issues"
   },
-  "homepage": "https://github.com/MoonLGH/testHtmlWithFriends#readme"
+  "homepage": "https://github.com/MoonLGH/testHtmlWithFriends#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
 }
